@@ -10,3 +10,5 @@
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/gomis-%E2%80%9Ckablan%E2%80%9D-a-646a54290/)
 - [Email](mailto:gomis.k.assebian@gmail.com)
+
+--->
