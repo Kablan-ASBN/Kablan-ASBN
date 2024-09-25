@@ -18,7 +18,7 @@ With a background in Neuroscience, I’m an aspiring Data Scientist aiming to tr
 
 ## Get in Touch
 
-- Linkedin: linkedin.com/in/gomis-kablan
+- Linkedin: https://www.linkedin.com/in/gomis-kablan/
 
 - Personal Email: gomis.k.assebian@gmail.com
 
