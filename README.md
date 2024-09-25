@@ -1,13 +1,25 @@
-Hi, I’m Kablan Assebian!
+# Hi, I’m Gomis (Kablan) Assebian!
 
-With a background in Neuroscience, I’m an aspiring Data Scientist aiming to transition into a Machine Learning Engineering role. I’m currently pursuing an MSc in Data Science.
+## My Journey
+With a background in Neuroscience, I’m an aspiring Data Scientist aiming to transition into a Machine Learning Engineering role in the next four years. I’m currently pursuing an MSc in Data Science.
 
-I’m currently learning Python, C, SQL, Machine Learning, HPC, and Statistical Analysis. I’m always eager to learn and open to collaborating, so let’s connect!
+## What I'm Currently Exploring
 
-You can reach out to me through these links: 
+- Python
+- C
+- R
+- Machine Learning (Supervised and Unsupervised Learning)
+- High-Performance Computing (HPC)
+- Statistical Analysis (Time Series Analysis)
 
-Linkedin: https://www.linkedin.com/in/gomis-%E2%80%9Ckablan%E2%80%9D-a-646a54290/
+## Skills
+- **Programming Languages**: Python, R
+- **Data Analysis Libraries**: Pandas, Numpy, dplyr, tidyr, ggplot2
 
-Personal Email: gomis.k.assebian@gmail.com
+## Get in Touch
+
+- Linkedin: linkedin.com/in/gomis-kablan
+
+- Personal Email: gomis.k.assebian@gmail.com
 
 ## Learning relentlessly, innovating fearlessly, committed to excellence.
