@@ -6,11 +6,9 @@ With a background in Neuroscience, I’m an aspiring Data Scientist aiming to tr
 ## What I'm Currently Exploring
 
 - Python
-- C
-- R
 - Machine Learning (Supervised and Unsupervised Learning)
-- High-Performance Computing (HPC)
-- Statistical Analysis (Time Series Analysis)
+- Big Data
+- Statistical Analysis
 
 ## Skills
 - **Programming Languages**: Python, R
