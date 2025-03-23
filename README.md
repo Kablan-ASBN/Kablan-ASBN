@@ -1,4 +1,4 @@
-# Hi, I’m Kablan Assebian (Gomis)
+# Hi, I’m Kablan (Gomis) Assebian
 
 ## About Me
 
