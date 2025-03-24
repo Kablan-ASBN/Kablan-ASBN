@@ -22,13 +22,17 @@ Working on real-world challenges in object detection and deep learning, with a f
 
 *Note: Specific project details are confidential under agreement with the sponsor.*
 
-**Portfolio Projects**  
+**Selected Projects**  
 - [Credit Card Fraud Detection](https://github.com/Kablan-ASBN/fraud-detection-system)  
-  End-to-end fraud detection pipeline using LightGBM. Handles 577:1 class imbalance and includes a FastAPI-ready prediction API.  
+  End-to-end fraud detection pipeline using LightGBM. Handles 577:1 class imbalance and includes a FastAPI-ready prediction API.
+  Description: Fine-tuned a BERT model to detect harmful language using the Jigsaw dataset. Includes robust preprocessing, CLI tools, and FastAPI integration. Focuses on bias mitigation and responsible NLP practices.
+  
 - [AI Safety – Toxic Content Detection](https://github.com/Kablan-ASBN/AI-Safety-Toxic-Detection)  
-  BERT-based NLP classifier for identifying online toxicity. CLI-ready and structured for API deployment.  
-- [Big Data Projects (Coming Soon)]  
-  Exploration of Spark, Hadoop, and distributed processing as part of academic coursework and skill-building.
+  BERT-based NLP classifier for identifying online toxicity. CLI-ready and structured for API deployment.
+  Description: End-to-end pipeline for real-time fraud detection using LightGBM. Emphasis on handling class imbalance, recall prioritization, and deployment with FastAPI.
+  
+- [Thesis – Transfer Learning on Sidescan Sonar Data (submission: August 2025)]  
+  Research focused on improving object detection performance through transfer learning and domain adaptation techniques. (Details available under NDA)
 
 ---
 
