@@ -4,7 +4,7 @@
 
 I'm a U.S. citizen and MSc Data Science candidate with a background in Neuroscience. Currently studying in London, UK, and relocating back to the U.S. in August 2025, I’m pursuing entry-level Data Scientist roles where I can contribute meaningfully while growing toward my long-term goal of becoming a Machine Learning Engineer within the next five years.
 
-With a foundation in research and a deep interest in applied AI, I focus on developing practical, scalable machine-learning solutions. While currently pursuing my MSc in Data Science in London, UK, I will relocate back to the United States in August 2025 and am open to opportunities nationwide.
+With a foundation in research and a deep interest in applied AI, I focus on developing practical, scalable machine-learning solutions. I’m currently pursuing my MSc in Data Science in London, UK, and will relocate to the United States in August 2025. I’m open to opportunities nationwide.
 
 ---
 
@@ -63,4 +63,4 @@ Working on real-world challenges in object detection and deep learning, with a f
 
 ---
 
-## **"Learning relentlessly. Innovating fearlessly. Committed to excellence."**
+## **Learning with intention. Building with others. Solving with originality.**
