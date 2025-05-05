@@ -1,66 +1,43 @@
-# Hi, I’m Kablan (Gomis) Assebian
+# Hi, I’m **Kablan Assebian** *(legal: Gomis Kablan Assebian)*
+*MSc Data Science · U.S. citizen · London-based, relocating to the U.S. May 2025*
 
-## About Me
-
-I'm a U.S. citizen and MSc Data Science candidate with a background in Neuroscience. Currently studying in London, UK, and relocating back to the U.S. in August 2025, I’m pursuing entry-level Data Scientist roles where I can contribute meaningfully while growing toward my long-term goal of becoming a Machine Learning Engineer within the next five years.
-
-With a foundation in research and a deep interest in applied AI, I focus on developing practical, scalable machine-learning solutions. I’m currently pursuing my MSc in Data Science in London, UK, and will relocate to the United States in August 2025. I’m open to opportunities nationwide.
+Turning messy data into decision-ready insight for risk, finance & product teams.
 
 ---
 
-## What I'm Working On
+## What I’m Doing Now
+### Deep-Learning Research Intern — Student Enterprise Project (StEP), University of Greenwich  
+*Nov 2024 – Aug 2025 · MSc thesis · NDA-protected*  
+- Conducting research in deep learning and AI as part of my MSc thesis  
+- Developing innovative techniques to improve object-detection workflows while maintaining high accuracy  
+- Collaborating with cross-disciplinary teams to deliver scalable, efficient solutions  
+- Evaluating model performance with established metrics to ensure robustness and adaptability  
 
-**Deep Learning Research Intern – Seabed.AI**  
-*University of Greenwich MSc Thesis | Nov 2024 – Aug 2025*
+---
 
-Selected through the University of Greenwich’s Student Enterprise Projects (StEP) to complete a thesis-integrated internship with Seabed.AI, a UK-based AI startup.  
-Working on real-world challenges in object detection and deep learning, with a focus on robustness, domain adaptation, and efficiency in low-label environments.
+## Selected Projects
+- **Credit-Card Fraud Detection** — End-to-end LightGBM pipeline (577 : 1 imbalance) with FastAPI micro-service; **87 % recall / 93 % precision**  
+- **AI Safety · Toxic Content Detection** — BERT-based NLP model, **99.9 % accuracy**, bias-audited & CLI/Docker-ready  
+- **MSc Thesis (in progress)** — Transfer learning for sidescan-sonar object detection (submission Aug 2025, NDA)
 
-- Applied transfer learning to adapt detection models to noisy, domain-shifted sonar data  
-- Designed a scalable evaluation pipeline to reduce annotation effort while maintaining high accuracy  
-- Operated within an academic-industry collaboration under NDA
+---
 
-*Note: Specific project details are confidential under agreement with the sponsor.*
-
-**Selected Projects**  
-- [Credit Card Fraud Detection](https://github.com/Kablan-ASBN/fraud-detection-system)  
-  End-to-end fraud detection pipeline using LightGBM. Handles 577:1 class imbalance and includes a FastAPI-ready prediction API.
-  Description: Fine-tuned a BERT model to detect harmful language using the Jigsaw dataset. Includes robust preprocessing, CLI tools, and FastAPI integration. Focuses on bias mitigation and responsible NLP practices.
-  
-- [AI Safety – Toxic Content Detection](https://github.com/Kablan-ASBN/AI-Safety-Toxic-Detection)  
-  BERT-based NLP classifier for identifying online toxicity. CLI-ready and structured for API deployment.
-  Description: End-to-end pipeline for real-time fraud detection using LightGBM. Emphasis on handling class imbalance, recall prioritization, and deployment with FastAPI.
-  
-- [Thesis – Transfer Learning on Sidescan Sonar Data (submission: August 2025)]  
-  Research focused on improving object detection performance through transfer learning and domain adaptation techniques. (Details available under NDA)
+## Skills Snapshot
+| Languages & Data | Machine Learning | Analytics & BI | Workflow |
+| --- | --- | --- | --- |
+| **Python · R · SQL** | scikit-learn · LightGBM · PyTorch | Excel · Tableau · Power BI | Git · Jupyter · Spark (α) · Dask |
 
 ---
 
 ## Currently Exploring
-
-- Machine Learning Engineering workflows  
-- Distributed computing with Spark and Dask  
-- Model deployment via FastAPI and cloud services  
-- NLP for language safety and bias mitigation  
-- Model evaluation, interpretability, and fairness
-
----
-
-## Technical Skills
-
-- **Languages**: Python, R  
-- **Data Analysis**: Pandas, NumPy, dplyr, tidyr  
-- **Visualization**: Seaborn, Matplotlib, ggplot2  
-- **Machine Learning**: scikit-learn, LightGBM, PyTorch  
-- **Tools**: Git, Jupyter, Google Colab, SQL, Google Drive
+- ML engineering CI/CD with FastAPI & Docker  
+- Distributed computing (Spark, Dask)  
+- Model interpretability, fairness & bias mitigation  
 
 ---
 
 ## Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gomis-kablan/)
-- gomis.k.assebian@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gomis-kablan/) · [GitHub](https://github.com/Kablan-ASBN) · gomis.k.assebian@gmail.com
 
 ---
 
-## **Learning with intention. Building with others. Solving with originality.**
