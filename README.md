@@ -1,5 +1,5 @@
 # Hi, I’m **Kablan Assebian** *(legal: Gomis Kablan Assebian)*
-*MSc Data Science · U.S. citizen · London-based, relocating to the U.S. May 2025*
+*MSc Data Science · U.S. citizen*
 
 Turning messy data into decision-ready insight for risk, finance & product teams.
 
