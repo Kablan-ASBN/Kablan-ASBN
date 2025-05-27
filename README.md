@@ -7,7 +7,7 @@ Turning messy data into decision-ready insight for risk, finance & product teams
 
 ## What I’m Doing Now
 ### Deep-Learning Research Intern — Student Enterprise Project (StEP), University of Greenwich  
-*Nov 2024 – Aug 2025 · MSc thesis · NDA-protected*  
+*Nov 2024 – Present · MSc thesis · NDA-protected*  
 - Conducting research in deep learning and AI as part of my MSc thesis  
 - Developing innovative techniques to improve object-detection workflows while maintaining high accuracy  
 - Collaborating with cross-disciplinary teams to deliver scalable, efficient solutions  
