@@ -16,7 +16,7 @@ Turning messy data into decision-ready insight for risk, finance & product teams
 ---
 
 ## Selected Projects
-- **Credit-Card Fraud Detection** — End-to-end LightGBM pipeline (577 : 1 imbalance) with FastAPI micro-service; **87 % recall / 93 % precision**  
+- **Credit-Card Fraud Detection** — End-to-end LightGBM pipeline (577 : 1 imbalance) with FastAPI micro-service; **87 % recall**  
 - **AI Safety · Toxic Content Detection** — BERT-based NLP model, **99.9 % accuracy**, bias-audited & CLI/Docker-ready  
 - **MSc Thesis (in progress)** — Transfer learning for sidescan-sonar object detection (submission Aug 2025, NDA)
 
