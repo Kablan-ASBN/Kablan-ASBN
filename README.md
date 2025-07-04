@@ -1,5 +1,5 @@
-# Hi, I’m **Kablan Assebian** *(legal: Gomis Kablan Assebian)*
-*MSc Data Science · U.S. citizen*
+# Hi, I’m **Kablan Assebian**
+*MSc Data Science*
 
 Turning messy data into decision-ready insight for risk, finance & product teams.
 
