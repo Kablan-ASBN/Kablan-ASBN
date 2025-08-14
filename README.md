@@ -6,12 +6,15 @@ Turning messy data into decision-ready insight for risk, finance & product teams
 ---
 
 ## What I’m Doing Now
-### Deep-Learning Research Intern — Student Enterprise Project (StEP), University of Greenwich  
-*Nov 2024 – Present · MSc thesis · NDA-protected*  
-- Conducting research in deep learning and AI as part of my MSc thesis  
-- Developing innovative techniques to improve object-detection workflows while maintaining high accuracy  
-- Collaborating with cross-disciplinary teams to deliver scalable, efficient solutions  
-- Evaluating model performance with established metrics to ensure robustness and adaptability  
+### Deep-Learning Research Intern — Student Enterprise Project (StEP), University of Greenwich
+
+Industry-integrated MSc Data Science placement focused on sonar object detection automation using transfer learning and domain adaptation techniques.
+
+- Researched domain-specific sonar datasets to identify performance gaps in object detection models and informed domain shift mitigation strategies.
+- Designed and validated a domain-adapted object detection pipeline using PyTorch and transfer learning to reduce reliance on manual annotation.
+- Supported data pipeline monitoring and quality assurance by performing structured audits and resolving cross-platform inconsistencies in preparation for deployment.
+- Processed data change requests and improved formatting consistency across training environments, contributing to research reproducibility and project scalability.
+- Collaborated across engineering and research teams to align technical milestones with academic and stakeholder goals. 
 
 ---
 
