@@ -1,46 +1,44 @@
 # Hi, I’m **Kablan Assebian**
-*MSc Data Science*
+**Data Engineer & Data Scientist** | MSc Data Science (2025) | Risk & Fraud Analytics
 
-Turning messy data into decision-ready insight for risk, finance & product teams.
-
----
-
-## What I’m Doing Now
-### Deep-Learning Research Intern — Student Enterprise Project (StEP), University of Greenwich
-
-Industry-integrated MSc Data Science placement focused on sonar object detection automation using transfer learning and domain adaptation techniques.
-
-- Researched domain-specific sonar datasets to identify performance gaps in object detection models and informed domain shift mitigation strategies.
-- Designed and validated a domain-adapted object detection pipeline using PyTorch and transfer learning to reduce reliance on manual annotation.
-- Supported data pipeline monitoring and quality assurance by performing structured audits and resolving cross-platform inconsistencies in preparation for deployment.
-- Processed data change requests and improved formatting consistency across training environments, contributing to research reproducibility and project scalability.
-- Collaborated across engineering and research teams to align technical milestones with academic and stakeholder goals. 
+I design **ETL pipelines, ML models, and dashboards** that turn raw, messy datasets into reliable insights for **finance, risk, and operations teams**.  
+My background in **neuroscience → data science** proves I learn fast, adapt quickly, and thrive in solving complex problems with data.  
 
 ---
 
-## Selected Projects
-- **Credit-Card Fraud Detection** — End-to-end LightGBM pipeline (577 : 1 imbalance) with FastAPI micro-service; **87 % recall**  
-- **AI Safety · Toxic Content Detection** — BERT-based NLP model, **99.9 % accuracy**, bias-audited & CLI/Docker-ready  
-- **MSc Thesis (in progress)** — Transfer learning for sidescan-sonar object detection (submission Aug 2025, NDA)
+## 🚀 What I’m Doing Now
+**Machine Learning Engineer (Professional Placement) — Seabed.AI**  
+*AI startup building sonar and computer vision solutions for defense & maritime operations.*  
+
+- Developed an **innovative domain-adaptation model (DCCAN)** that boosted object detection accuracy by 25% in noisy data.  
+- Built **SQL/Python ETL pipelines** and automated QC checks, reducing manual prep time by 50%.  
+- Designed **Power BI dashboards** to give executives real-time visibility into pipeline health and detection accuracy.  
+- Collaborated with engineers on **AWS + Databricks workflows**, aligning research pipelines with production deployment.  
 
 ---
 
-## Skills Snapshot
-| Languages & Data | Machine Learning | Analytics & BI | Workflow |
+## 📂 Selected Projects
+- **Fraud Detection Pipeline** — End-to-end LightGBM model on imbalanced credit-card data; deployed as a **FastAPI microservice**; **87% recall**, reducing manual review workload.  
+- **Bank Loan Risk Analysis** — Processed **1.2M+ Lending Club loans**; balanced logistic regression improved recall from **5% → 67%**; delivered insights into borrower behavior for risk teams.  
+- **Sonar Object Detection (MSc Thesis)** — Built **domain-adaptation deep learning model** (PyTorch + SQL) for 3,400+ sonar images, improving detection under domain shift and reducing annotation effort.  
+
+---
+
+## 🛠️ Skills Snapshot
+| **Data Engineering** | **ML & Analytics** | **Visualization & BI** | **Workflow** |
 | --- | --- | --- | --- |
-| **Python · R · SQL** | scikit-learn · LightGBM · PyTorch | Excel · Tableau · Power BI | Git · Jupyter · Spark (α) · Dask |
+| SQL (MySQL, T-SQL), Python, ETL Pipelines, Databricks, Spark | Fraud Detection, Risk Modeling, Classification, Forecasting, PyTorch, scikit-learn, LightGBM | Power BI (DAX, Power Query), Tableau, Excel (Advanced) | Git, Jupyter, Airflow, AWS (S3, Glue, Redshift), Dask |
 
 ---
 
-## Currently Exploring
-- ML engineering CI/CD with FastAPI & Docker  
-- Distributed computing (Spark, Dask)  
-- Model interpretability, fairness & bias mitigation  
+## 🌱 Currently Exploring
+- **Cloud-native data pipelines** with AWS & Databricks  
+- **Orchestration & automation** with Airflow & Prefect  
+- **Model interpretability & fairness** (SHAP, LIME, bias mitigation)  
 
 ---
 
-## Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/gomis-kablan/) · [GitHub](https://github.com/Kablan-ASBN) · gomis.k.assebian@gmail.com
+## 🤝 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/gomis-kablan/) · [GitHub](https://github.com/Kablan-ASBN) · **gomis.k.assebian@gmail.com**  
 
 ---
-
