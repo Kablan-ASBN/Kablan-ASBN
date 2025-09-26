@@ -20,7 +20,7 @@ With a background in **neuroscience turned data science**, I bring adaptability,
 ## Selected Projects
 - **[Fraud Detection Pipeline](https://github.com/Kablan-ASBN/fraud-detection)** — End-to-end LightGBM model on highly imbalanced credit-card data; deployed as a **FastAPI microservice**; achieved **87% recall**, reducing manual review workload.  
 - **[Bank Loan Risk Analysis](https://github.com/Kablan-ASBN/bank-loan-risk-analysis)** — Analyzed **1.2M+ Lending Club loans**; balanced logistic regression improved recall from **5% → 67%**; delivered actionable borrower-risk insights.  
-- **[Sonar Object Detection](https://github.com/Kablan-ASBN/sonar-object-detection)** (Research done during Seabed.AI Placement)** — Built a **domain-adaptation deep learning model** (PyTorch + SQL) for 3,400+ sonar images, improving detection under domain shift. *Note: repo private due to dataset sensitivity — results and methodology available on request.*  
+- **[Sonar Object Detection](https://github.com/Kablan-ASBN/sonar-object-detection)** — (Research done during Seabed.AI Placement)** — Built a **domain-adaptation deep learning model** (PyTorch + SQL) for 3,400+ sonar images, improving detection under domain shift. *Note: repo private due to dataset sensitivity — results and methodology available on request.*  
 
 ---
 
