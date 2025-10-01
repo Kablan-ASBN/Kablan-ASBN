@@ -8,7 +8,7 @@ With a background in **neuroscience turned data science**, I bring adaptability,
 
 ## Most Recent Role
 **Machine Learning Engineer (Professional Placement) — Seabed.AI (London, UK)**  
-*AI startup building sonar and computer vision solutions for defense & maritime operations.*  
+*AI startup building sonar and computer vision solutions for offshore operations.*  
 
 - Developed an **innovative domain-adaptation model (DCCAN)** that boosted object detection accuracy by 25% in noisy sonar environments.  
 - Engineered **SQL/Python ETL pipelines** with automated QC, cutting manual prep time by 50%.  
