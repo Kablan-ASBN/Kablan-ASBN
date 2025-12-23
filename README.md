@@ -87,7 +87,7 @@ Analyzed **1.2M+ Lending Club loans** to understand borrower default risk.
 
 ---
 
-### 🔹 **Sonar Object Detection (Applied ML)** *(De-emphasized)*  
+### 🔹 **Sonar Object Detection (Applied ML)**  
 Research project completed during Seabed.AI placement.
 
 Included here to demonstrate experience with:
