@@ -1,7 +1,7 @@
 # Hi, I’m Kablan Assebian  
 *(Legal name: Gomis Kablan Assebian)*
 
-**Data Scientist & Analytics Engineer**  
+**Data Scientist (Applied Analytics & Risk Modeling)**  
 SQL • Python • Analytics Engineering • Machine Learning • Power BI  
 MSc Data Science (Distinction) — University of Greenwich
 
@@ -29,7 +29,7 @@ AI startup building analytics and computer vision systems for offshore operation
 - Aggregated **multi-source operational data** into consistent, order- and job-level metrics used by engineering and leadership teams.
 - Built **Power BI dashboards** to monitor pipeline health, data coverage, and model performance.
 - Partnered with data scientists and engineers on **AWS + Databricks** workflows, aligning exploratory analysis with production reporting.
-- Applied **transfer learning and domain adaptation** techniques to improve model robustness in noisy, real-world environments.
+- Applied transfer learning and domain adaptation techniques to improve model robustness and reduce performance degradation under real-world data shifts.
 
 This role emphasized **analytics engineering, metric consistency, and stakeholder-facing reporting**, alongside applied ML.
 
