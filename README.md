@@ -1,140 +1,93 @@
-# Hi, I’m Kablan Assebian  
+# Kablan Assebian
 *(Legal name: Gomis Kablan Assebian)*
 
-**Data Scientist (Applied Analytics & Risk Modeling)**  
-SQL • Python • Analytics Engineering • Machine Learning • Power BI  
-MSc Data Science (Distinction) — University of Greenwich
+**Analytics Engineer · Technical Data Analyst**
+`SQL` `Python` `dbt` `ETL` `Data Quality` `KPI Modeling`
 
-I build **reliable analytics pipelines and decision-ready metrics** that help
-**risk, finance, and operations teams** trust their numbers and act on them.
+MSc Data Science — Distinction (highest UK postgraduate grade classification) · University of Greenwich (BCS-Accredited) · U.S. Citizen
 
-My work focuses on:
-- turning messy transactional data into **clean, reconciled KPIs**
-- designing **ETL pipelines with validation and monitoring**
-- explaining *why* metrics differ across teams, not just computing them
-
-I began my career in **neuroscience**, working with noisy experimental data,
-then transitioned into **data science and analytics engineering**.
-That background trained me to think carefully about **data quality, assumptions,
-and real-world constraints** — the same issues that drive most business reporting problems.
+🌐 English & French (native/bilingual) &nbsp;|&nbsp; 📍 Atlanta, GA &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-gomis--kablan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gomis-kablan/) [![Email](https://img.shields.io/badge/Email-gomis.k.assebian@gmail.com-EA4335?style=flat&logo=gmail)](mailto:gomis.k.assebian@gmail.com)
 
 ---
 
-## Most Recent Role
+I build analytics systems where the numbers are consistent, explainable, and audit-ready.
 
-### **Analytics Engineer (AI/ML) — Seabed.AI (London, UK)**  
-AI startup building analytics and computer vision systems for offshore operations.
+My focus is the layer between raw data and business decisions — transformation logic, metric definitions, validation pipelines, and the documentation that makes outputs trustworthy and reproducible across teams. Currently a Database Analyst II at the Georgia Environmental Protection Division, working on data quality and reporting workflows for environmental permitting datasets.
 
-- Designed and maintained **SQL + Python ETL pipelines** with automated data-quality checks, reducing manual data preparation by ~50%.
-- Aggregated **multi-source operational data** into consistent, order- and job-level metrics used by engineering and leadership teams.
-- Built **Power BI dashboards** to monitor pipeline health, data coverage, and model performance.
-- Partnered with data scientists and engineers on **AWS + Databricks** workflows, aligning exploratory analysis with production reporting.
-- Applied transfer learning and domain adaptation techniques to improve model robustness and reduce performance degradation under real-world data shifts.
-
-This role emphasized **analytics engineering, metric consistency, and stakeholder-facing reporting**, alongside applied ML.
+Before moving into analytics engineering, I spent six years co-founding and scaling a nonprofit across four regions of Côte d'Ivoire. That experience gave me a direct understanding of what happens when data systems are absent or unreliable — and it informs how I think about data quality as a prerequisite for organizational trust, not just a technical checkbox.
 
 ---
 
-## Selected Projects
+## What I Work On
 
-### 🔹 **Revenue & KPI Reconciliation (Commerce Analytics)**  
-**Order-Level Revenue Reconciliation Case Study**  
-*(Olist Brazilian E-Commerce Dataset)*
+**Analytics Engineering**
+Modular SQL transformations, staging and mart layers, dbt-style modeling, metric grain standardization, and validation logic that prevents reporting discrepancies before they reach stakeholders.
 
-Finance, Operations, and Marketing teams often report different revenue numbers
-from the same data. This project investigates **why those discrepancies occur**
-and demonstrates how to resolve them through **clear definitions, correct grain,
-and validation checks**.
+**Data Quality & Reconciliation**
+End-to-end reconciliation workflows, root-cause investigation of KPI mismatches (join/grain errors, definition drift, upstream logic changes), completeness and consistency checks, and audit-ready outputs.
 
-**What I did:**
-- Aggregated item-, freight-, and payment-level data to a **single order-level grain**
-- Defined and compared multiple revenue metrics:
-  - Gross (items only)
-  - Gross (items + freight)
-  - Paid revenue
-  - Net revenue (non-canceled proxy)
-- Identified root causes of mismatches:
-  - canceled orders with captured payments
-  - multi-item and multi-payment orders
-  - joins performed at the wrong grain
-- Designed **operational validation checks** suitable for production monitoring
-
-**Key findings:**
-- Item-only revenue understates customer-paid value by ~15%
-- Item + freight revenue aligns closely with paid revenue (≈1% delta)
-- Most discrepancies are caused by **implicit assumptions**, not bad data
-
-**Deliverables:**
-- Order-level reconciliation table
-- Validation checks for ongoing monitoring
-- Fully reproducible analysis notebook
-
-**Tech:** Python, Pandas, SQL-style aggregation logic, data validation, business metrics  
-📁 Repo: `revenue-kpi-reconciliation`
+**ETL & Python Pipelines**
+Reproducible Python workflows for data ingestion, cleaning, transformation, and automated validation — built to be readable, testable, and maintainable.
 
 ---
 
-### 🔹 **Bank Loan Risk Analysis**  
-Analyzed **1.2M+ Lending Club loans** to understand borrower default risk.
+## Projects
 
-- Cleaned and transformed a large, messy dataset with missing values and heavy class imbalance
-- Built **logistic regression models** on imbalanced vs balanced data
-- Improved recall on defaulted loans from **~5% to ~67%** using downsampling
-- Focused reporting on **business trade-offs**, not just model accuracy
+### [Revenue & KPI Reconciliation — Commerce Analytics Case Study](https://github.com/Kablan-ASBN/revenue-kpi-reconciliation)
+**The problem:** Finance, Operations, and Marketing report different revenue numbers from the same source data. This project investigates why — and builds the reconciliation logic to resolve it.
 
-**Tech:** Python, Pandas, scikit-learn, AUC/ROC, F1, confusion matrices  
-📁 Repo: `bank-loan-risk-analysis`
+Built on the Olist Brazilian E-Commerce dataset. Aggregates item-, freight-, and payment-level data to a consistent order-level grain. Defines and compares four revenue metrics (gross items-only, gross with freight, paid, net non-canceled proxy). Identifies root causes of mismatches including canceled orders with captured payments and multi-item joins at the wrong grain. Produces operational validation checks designed for production monitoring.
+
+`Python` `Pandas` `SQL-style aggregation` `Metric documentation` `Data validation`
 
 ---
 
-### 🔹 **Sonar Object Detection (Applied ML)**  
-Research project completed during Seabed.AI placement.
+### [Bank Loan Risk Analysis](https://github.com/Kablan-ASBN/bank-loan-risk-analysis)
+**The problem:** Default risk models trained on imbalanced data produce misleadingly high accuracy while failing to identify the cases that matter most.
 
-Included here to demonstrate experience with:
-- complex data pipelines
-- model evaluation
-- production constraints under noisy conditions
+Analyzed 1.2M+ Lending Club loan records. Built an end-to-end pipeline covering ingestion, cleaning, validation, and feature engineering. Improved default recall from 5.4% to 67.1% through class imbalance handling and downsampling. Emphasis on business trade-offs and decision-relevant reporting — ROC-AUC, precision-recall curves, and confusion matrices framed around lending risk decisions, not raw model accuracy.
 
-Primary focus of my portfolio is **analytics and decision support**, not research modeling.
+`Python` `Pandas` `scikit-learn` `ROC-AUC` `Precision-Recall` `Class imbalance`
 
 ---
 
-## Skills Snapshot
+### [Fraud Detection System — Real-Time ML Pipeline](https://github.com/Kablan-ASBN/fraud-detection-system)
+**The problem:** Credit card fraud detection requires handling extreme class imbalance (577:1) while maintaining low false negatives and real-time throughput.
 
-### Data & Analytics Engineering
-- SQL (MySQL, T-SQL)
-- Python (Pandas, NumPy)
-- ETL pipelines, data validation, reconciliation logic
-- Databricks, basic Spark
+Built a production-oriented ML pipeline using Dask-based ETL that scales with transaction volume. Trained a LightGBM classifier achieving 0.905 ROC-AUC and 87% fraud recall. Deployed via FastAPI as a REST endpoint for real-time inference. Applied threshold tuning and scale_pos_weight adjustment to minimize false negatives. Modularized codebase with separate training, evaluation, and deployment modules.
 
-### Analytics & ML
-- Classification, risk modeling, operational analytics
-- scikit-learn, LightGBM, PyTorch (applied)
-- Model evaluation: ROC/AUC, PR curves, F1
-
-### Visualization & Reporting
-- Power BI (DAX, Power Query)
-- Tableau
-- Excel (advanced)
-
-### Tools & Workflow
-- Git, Jupyter, VS Code
-- AWS basics (S3, Glue, Redshift)
-- Reproducible notebooks and documentation
+`Python` `LightGBM` `Dask` `FastAPI` `ETL pipeline` `Class imbalance` `Model deployment`
 
 ---
 
-## What I’m Focused On Now
+### [Sonar Object Detection — Applied ML (MSc Placement at Seabed.AI)](https://github.com/Kablan-ASBN/sonar-object-detection)
+**Context:** Research project completed during Analytics Engineer placement at Seabed.AI (London, UK).
 
-- Production-grade analytics pipelines
-- Metric governance and data quality monitoring
-- Cloud-based analytics workflows
-- Translating technical results into **clear business narratives**
+Full ML pipeline for 3,400+ noisy sidescan sonar images. Custom preprocessing, YOLO→VOC data conversion, Faster R-CNN baseline with ResNet-50 FPN, and adversarial domain adaptation (DANN + novel DCCAN hybrid) to improve generalization across sonar types. Evaluated with COCO mAP and FROC metrics. Included to demonstrate complex pipeline construction and model evaluation under real-world constraints — not a primary portfolio focus.
+
+`Python` `PyTorch` `Faster R-CNN` `Domain Adaptation` `COCO metrics` `Computer Vision`
 
 ---
 
-## Let’s Connect
+## Skills
 
-- **GitHub:** https://github.com/Kablan-ASBN  
-- **LinkedIn:** https://www.linkedin.com/in/gomis-kablan/  
-- **Email:** gomis.k.assebian@gmail.com
+| Area | Tools & Concepts |
+|---|---|
+| SQL | Joins, CTEs, window functions, aggregations, reconciliation queries, PostgreSQL |
+| Python | Pandas, NumPy, scikit-learn, LightGBM, data cleaning, validation pipelines |
+| Analytics Engineering | dbt (foundational), metric definitions, staging/mart modeling, KPI documentation |
+| Data Quality | Completeness checks, deduplication, grain validation, audit-ready outputs |
+| Visualization | Tableau, Power BI (supporting role — dashboard enablement) |
+| ML & Modeling | Classification, class imbalance, model evaluation, transfer learning |
+| Deployment & Tools | FastAPI, Git/GitHub, Jupyter, VS Code |
+| Cloud & Infrastructure | AWS basics (S3), Azure OpenAI, Databricks (exposure), Linux (basic) |
+
+---
+
+## Currently Building
+
+Building toward a production-grade dbt + Prefect + PostgreSQL pipeline project — publishing in June 2026.
+
+---
+
+*Open to Analytics Engineer, Technical Data Analyst, and related roles. U.S. Citizen. Eligible for public sector and government positions.*
