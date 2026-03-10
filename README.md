@@ -42,6 +42,15 @@ Built on the Olist Brazilian E-Commerce dataset. Aggregates item-, freight-, and
 
 ---
 
+### [SaaS Metrics Pipeline](https://github.com/Kablan-ASBN/saas_metrics_pipeline)
+**The problem:** SaaS companies track revenue at the event level (signups, upgrades, cancellations), but the raw data does not directly answer the financial questions that matter: Is MRR growing? What is driving churn? Which cohorts retain best?
+
+Built an end-to-end pipeline that transforms subscription lifecycle events into core SaaS financial metrics. Generates synthetic but realistic B2B subscription data (800 customers, 36 months). Executes dbt-style SQL models across staging, intermediate, and mart layers. Produces a monthly MRR waterfall, cohort retention curves, customer health segmentation, and LTV estimates. Includes 5 automated data quality checks that run on every pipeline execution.
+
+`Python` `SQL` `pandas` `dbt-style modeling` `Data quality` `SaaS metrics`
+
+---
+
 ### [Bank Loan Risk Analysis](https://github.com/Kablan-ASBN/bank-loan-risk-analysis)
 **The problem:** Default risk models trained on imbalanced data produce misleadingly high accuracy while failing to identify the cases that matter most.
 
