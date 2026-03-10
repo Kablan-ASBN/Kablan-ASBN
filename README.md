@@ -12,9 +12,9 @@ MSc Data Science — Distinction (highest UK postgraduate grade classification) 
 
 I build analytics systems where the numbers are consistent, explainable, and audit-ready.
 
-My focus is the layer between raw data and business decisions — transformation logic, metric definitions, validation pipelines, and the documentation that makes outputs trustworthy and reproducible across teams. Currently a Database Analyst II at the Georgia Environmental Protection Division, working on data quality and reporting workflows for environmental permitting datasets.
+My focus is on the layer between raw data and business decisions: transformation logic, metric definitions, validation pipelines, and the documentation that makes outputs trustworthy and reproducible across teams. Currently open to Analytics Engineer, Technical Data Analyst, and related roles.
 
-Before moving into analytics engineering, I spent six years co-founding and scaling a nonprofit across four regions of Côte d'Ivoire. That experience gave me a direct understanding of what happens when data systems are absent or unreliable — and it informs how I think about data quality as a prerequisite for organizational trust, not just a technical checkbox.
+Before moving into analytics engineering, I spent six years co-founding and scaling a nonprofit across four regions of Côte d'Ivoire. I built the team from the ground up, managed cross-regional operations, coordinated volunteers and stakeholders with competing priorities, and made resource decisions with limited budget and incomplete information. That experience gave me a direct understanding of what happens when data systems are absent or unreliable, and it shapes how I approach analytics work today: data quality is a prerequisite for organizational trust, not just a technical checkbox. It also means I bring project leadership, stakeholder communication, and the ability to drive initiatives from ambiguity to execution, skills that don't show up in a tech stack list but matter in every team I join.
 
 ---
 
@@ -33,7 +33,7 @@ Reproducible Python workflows for data ingestion, cleaning, transformation, and 
 
 ## Projects
 
-### [Revenue & KPI Reconciliation — Commerce Analytics Case Study](https://github.com/Kablan-ASBN/revenue-kpi-reconciliation)
+### [Revenue & KPI Reconciliation: Commerce Analytics Case Study](https://github.com/Kablan-ASBN/revenue-kpi-reconciliation)
 **The problem:** Finance, Operations, and Marketing report different revenue numbers from the same source data. This project investigates why — and builds the reconciliation logic to resolve it.
 
 Built on the Olist Brazilian E-Commerce dataset. Aggregates item-, freight-, and payment-level data to a consistent order-level grain. Defines and compares four revenue metrics (gross items-only, gross with freight, paid, net non-canceled proxy). Identifies root causes of mismatches including canceled orders with captured payments and multi-item joins at the wrong grain. Produces operational validation checks designed for production monitoring.
@@ -51,7 +51,7 @@ Analyzed 1.2M+ Lending Club loan records. Built an end-to-end pipeline covering 
 
 ---
 
-### [Fraud Detection System — Real-Time ML Pipeline](https://github.com/Kablan-ASBN/fraud-detection-system)
+### [Fraud Detection System: Real-Time ML Pipeline](https://github.com/Kablan-ASBN/fraud-detection-system)
 **The problem:** Credit card fraud detection requires handling extreme class imbalance (577:1) while maintaining low false negatives and real-time throughput.
 
 Built a production-oriented ML pipeline using Dask-based ETL that scales with transaction volume. Trained a LightGBM classifier achieving 0.905 ROC-AUC and 87% fraud recall. Deployed via FastAPI as a REST endpoint for real-time inference. Applied threshold tuning and scale_pos_weight adjustment to minimize false negatives. Modularized codebase with separate training, evaluation, and deployment modules.
@@ -60,7 +60,7 @@ Built a production-oriented ML pipeline using Dask-based ETL that scales with tr
 
 ---
 
-### [Sonar Object Detection — Applied ML (MSc Placement at Seabed.AI)](https://github.com/Kablan-ASBN/sonar-object-detection)
+### [Sonar Object Detection: Applied ML (MSc Placement at Seabed.AI)](https://github.com/Kablan-ASBN/sonar-object-detection)
 **Context:** Research project completed during Analytics Engineer placement at Seabed.AI (London, UK).
 
 Full ML pipeline for 3,400+ noisy sidescan sonar images. Custom preprocessing, YOLO→VOC data conversion, Faster R-CNN baseline with ResNet-50 FPN, and adversarial domain adaptation (DANN + novel DCCAN hybrid) to improve generalization across sonar types. Evaluated with COCO mAP and FROC metrics. Included to demonstrate complex pipeline construction and model evaluation under real-world constraints — not a primary portfolio focus.
@@ -86,7 +86,7 @@ Full ML pipeline for 3,400+ noisy sidescan sonar images. Custom preprocessing, Y
 
 ## Currently Building
 
-Building toward a production-grade dbt + Prefect + PostgreSQL pipeline project — publishing in June 2026.
+Building toward a production-grade dbt + Prefect + PostgreSQL pipeline project — publishing in April 2026.
 
 ---
 
