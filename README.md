@@ -4,7 +4,7 @@
 **Analytics Engineer · Technical Data Analyst**
 `SQL` `Python` `dbt` `ETL` `Data Quality` `KPI Modeling`
 
-MSc Data Science — Distinction (highest UK postgraduate grade classification) · University of Greenwich (BCS-Accredited) · U.S. Citizen
+MSc Data Science — Distinction · University of Greenwich (BCS-Accredited) · U.S. Citizen
 
 🌐 English & French (native/bilingual) &nbsp;|&nbsp; 📍 Atlanta, GA &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-gomis--kablan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gomis-kablan/) [![Email](https://img.shields.io/badge/Email-gomis.k.assebian@gmail.com-EA4335?style=flat&logo=gmail)](mailto:gomis.k.assebian@gmail.com)
 
@@ -12,22 +12,22 @@ MSc Data Science — Distinction (highest UK postgraduate grade classification) 
 
 I build analytics systems where the numbers are consistent, explainable, and audit-ready.
 
-My focus is on the layer between raw data and business decisions: transformation logic, metric definitions, validation pipelines, and the documentation that makes outputs trustworthy and reproducible across teams. Currently open to Analytics Engineer, Technical Data Analyst, and related roles.
+My focus is the layer between raw data and business decisions: transformation logic, metric definitions, validation pipelines, and documentation that makes outputs trustworthy and reproducible. Currently open to Analytics Engineer, Technical Data Analyst, and related roles.
 
-Before moving into analytics engineering, I spent six years co-founding and scaling a nonprofit across four regions of Côte d'Ivoire. I built the team from the ground up, managed cross-regional operations, coordinated volunteers and stakeholders with competing priorities, and made resource decisions with limited budget and incomplete information. That experience gave me a direct understanding of what happens when data systems are absent or unreliable, and it shapes how I approach analytics work today: data quality is a prerequisite for organizational trust, not just a technical checkbox. It also means I bring project leadership, stakeholder communication, and the ability to drive initiatives from ambiguity to execution, skills that don't show up in a tech stack list but matter in every team I join.
+Before analytics engineering, I spent six years co-founding and scaling a nonprofit across four regions of Côte d'Ivoire. I built the team from the ground up, managed cross-regional operations, and coordinated stakeholders with competing priorities on a limited budget. That experience showed me what happens when data systems are absent or unreliable. It shapes how I work today: data quality is a prerequisite for organizational trust, not just a technical checkbox. It also means I bring project leadership, stakeholder communication, and the ability to move initiatives from ambiguity to execution.
 
 ---
 
 ## What I Work On
 
 **Analytics Engineering**
-Modular SQL transformations, staging and mart layers, dbt-style modeling, metric grain standardization, and validation logic that prevents reporting discrepancies before they reach stakeholders.
+Modular SQL transformations, staging and mart layers, dbt-style modeling, metric grain standardization, and validation logic that catches reporting discrepancies before they reach stakeholders.
 
 **Data Quality & Reconciliation**
-End-to-end reconciliation workflows, root-cause investigation of KPI mismatches (join/grain errors, definition drift, upstream logic changes), completeness and consistency checks, and audit-ready outputs.
+End-to-end reconciliation workflows, root-cause investigation of KPI mismatches (join errors, grain issues, definition drift), completeness and consistency checks, and audit-ready outputs.
 
 **ETL & Python Pipelines**
-Reproducible Python workflows for data ingestion, cleaning, transformation, and automated validation — built to be readable, testable, and maintainable.
+Reproducible Python workflows for data ingestion, cleaning, transformation, and automated validation. Built to be readable, testable, and maintainable.
 
 ---
 
