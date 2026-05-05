@@ -11,9 +11,9 @@ English & French (native/bilingual) | Atlanta, GA | [![LinkedIn](https://img.shi
 
 I build the data infrastructure layer between raw events and business decisions, and I translate it for the people making those decisions.
 
-Currently completing a 13-week intensive on dbt + Snowflake fluency, live demo delivery, and customer discovery. Previously at Georgia EPD, I designed an automated data pipeline processing 35,000+ geospatial permit records at 99.98% accuracy, replacing a manual multi-step workflow. At Seabed.AI, I built data quality frameworks, KPI dashboards, and transformation pipelines that reduced manual reporting by 50%.
+I work in dbt and Snowflake, building staging-intermediate-marts architectures with incremental models, snapshots, dbt-expectations, custom macros, and GitHub Actions CI/CD. At Georgia EPD, I designed an automated 15-stage data pipeline processing 35,000+ geospatial permit records at 99.98% accuracy, replacing a manual multi-step workflow. At Seabed.AI, I built data quality frameworks, KPI dashboards, and transformation pipelines that reduced manual reporting by 50%.
 
-My focus is the layer between technical capability and business outcomes: explaining architecture trade-offs to non-technical buyers, running discovery conversations that surface real pain, modeling data so metrics are consistent and explainable, and shipping pipelines that audit cleanly. Open to Analytics Engineer, Customer Success Engineer, Implementation Engineer, Solutions Engineer, and Senior Data Analyst roles.
+My focus is the layer between technical capability and business outcomes: explaining architecture trade-offs to non-technical buyers, running discovery conversations that surface real pain, modeling data so metrics are consistent and explainable, and shipping pipelines that audit cleanly. Open to Analytics Engineer and customer-facing technical roles.
 
 Before analytics, I spent six years at a nonprofit across four regions of Côte d'Ivoire, co-leading fundraising and sponsor development. We secured $100K+ in cumulative funding through B2B corporate sponsors, high-net-worth individual donors, broad-base donor cultivation, and government grants. That work was customer-facing technical communication before I knew the term: discovery conversations with skeptical buyers, technical demos for non-technical audiences, and translating complex impact data into funding decisions.
 
@@ -111,11 +111,11 @@ Full ML pipeline for 3,400+ noisy sidescan sonar images. Custom preprocessing, Y
 
 ## Currently Building
 
-- Deepening dbt and Snowflake fluency through a 13-week intensive: incremental models, SCD Type 2 snapshots, dbt-expectations, custom macros, GitHub Actions CI/CD, Snowflake architecture and cost optimization
-- Stripe API integration project demonstrating subscription billing, webhook handling, and ledger reconciliation
-- Live demo delivery practice: weekly recordings, biweekly walkthroughs to peers and community, focused on translating technical architecture into customer-facing narratives
-- Recent public engagement: dbt + Snowflake pipeline walkthrough on YouTube, LinkedIn writing on SaaS metrics layering and incremental model patterns, active in DataTalks.Club and dbt Community Slack
+- Stripe API integration project: subscription billing, webhook handling, and ledger reconciliation, demonstrating fintech-relevant API patterns
+- Live demo recordings of dbt + Snowflake architecture walkthroughs on YouTube, designed to translate technical decisions into customer-facing narratives
+- Production-style portfolio extensions: incremental model patterns, observability through Slack alerting, dbt run logs analysis
+- Active in DataTalks.Club Slack and dbt Community Slack, occasional LinkedIn writing on SaaS metrics layering and incremental model patterns
 
 ---
 
-*Open to Analytics Engineer, Customer Success Engineer, Implementation Engineer, Solutions Engineer, and Senior Data Analyst roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation: Chicago, NYC, Baltimore, Philadelphia.*
+*Open to Analytics Engineer and customer-facing technical roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation: Chicago, NYC, Baltimore, Philadelphia.*
