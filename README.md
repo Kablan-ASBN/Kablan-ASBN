@@ -1,6 +1,6 @@
 # Kablan Assebian
 
-**Solutions Engineer | Analytics Engineer**
+**Analytics Engineer | Customer-Facing Technical Specialist**
 `dbt` `Snowflake` `SQL` `Python` `Power BI` `Demo Delivery` `Customer Discovery` `Data Quality`
 
 MSc Data Science (Distinction) | University of Greenwich (BCS-Accredited) | U.S. Citizen
@@ -9,29 +9,29 @@ English & French (native/bilingual) | Atlanta, GA | [![LinkedIn](https://img.shi
 
 ---
 
-I help technical buyers see how data infrastructure decisions translate into business outcomes.
+I build the data infrastructure layer between raw events and business decisions, and I translate it for the people making those decisions.
 
-Currently completing a 13-week Solutions Engineering preparation track focused on dbt + Snowflake fluency, live demo delivery, and customer discovery. Previously at Georgia EPD, I designed an automated data pipeline processing 35,000+ geospatial permit records at 99.98% accuracy, replacing a manual multi-step workflow. At Seabed.AI, I built data quality frameworks, KPI dashboards, and transformation pipelines that reduced manual reporting by 50%.
+Currently completing a 13-week intensive on dbt + Snowflake fluency, live demo delivery, and customer discovery. Previously at Georgia EPD, I designed an automated data pipeline processing 35,000+ geospatial permit records at 99.98% accuracy, replacing a manual multi-step workflow. At Seabed.AI, I built data quality frameworks, KPI dashboards, and transformation pipelines that reduced manual reporting by 50%.
 
-My focus is the layer between technical capability and business decisions: explaining architecture trade-offs to non-technical buyers, running discovery conversations that surface real pain, and shipping demos that show prospects how their problems get solved. Open to Solutions Engineer, Analytics Engineer, and related customer-facing technical roles.
+My focus is the layer between technical capability and business outcomes: explaining architecture trade-offs to non-technical buyers, running discovery conversations that surface real pain, modeling data so metrics are consistent and explainable, and shipping pipelines that audit cleanly. Open to Analytics Engineer, Customer Success Engineer, Implementation Engineer, Solutions Engineer, and Senior Data Analyst roles.
 
-Before analytics, I spent six years at a nonprofit across four regions of Côte d'Ivoire, co-leading fundraising and sponsor development. We secured $100K+ in cumulative funding through B2B corporate sponsors, high-net-worth individual donors, broad-base donor cultivation, and government grants. That work was Solutions Engineering before I knew the term: discovery conversations with skeptical buyers, technical demos for non-technical audiences, and translating complex impact data into funding decisions.
+Before analytics, I spent six years at a nonprofit across four regions of Côte d'Ivoire, co-leading fundraising and sponsor development. We secured $100K+ in cumulative funding through B2B corporate sponsors, high-net-worth individual donors, broad-base donor cultivation, and government grants. That work was customer-facing technical communication before I knew the term: discovery conversations with skeptical buyers, technical demos for non-technical audiences, and translating complex impact data into funding decisions.
 
 ---
 
 ## What I Work On
 
+**Modern Data Stack & Analytics Engineering**
+dbt fluency (staging-intermediate-marts, incremental models, snapshots, dbt-expectations, custom macros). Snowflake architecture (micro-partitioning, three-cache model, QUALIFY, TIME_TRAVEL, cost optimization). Modular SQL transformations, metric definitions, KPI documentation, and validation logic that catches reporting discrepancies before they reach stakeholders.
+
+**Data Quality & Reconciliation**
+End-to-end reconciliation workflows, root-cause investigation of KPI mismatches (join errors, grain issues, definition drift), completeness and consistency checks, and audit-ready outputs.
+
 **Customer-Facing Technical Communication**
 Live demo delivery, discovery question frameworks, technical sales conversations, requirements gathering across competing stakeholders, and translating prospect pain into demonstrable solutions.
 
-**Modern Data Stack**
-dbt fluency (staging-intermediate-marts, incremental models, snapshots, dbt-expectations, custom macros). Snowflake architecture (micro-partitioning, three-cache model, QUALIFY, TIME_TRAVEL, cost optimization). End-to-end pipelines built and deployed on real data.
-
-**Analytics Engineering**
-Modular SQL transformations, metric definitions, KPI documentation, semantic layer fluency, and validation logic that catches reporting discrepancies before they reach stakeholders.
-
 **Production Engineering Discipline**
-GitHub Actions CI/CD, SQLFluff style enforcement, dbt run logs analysis, observability through Slack alerting, and reproducible workflows built to be testable and maintainable.
+GitHub Actions CI/CD, SQLFluff style enforcement, dbt run logs analysis, observability through alerting, and reproducible workflows built to be testable and maintainable.
 
 ---
 
@@ -47,9 +47,9 @@ Built an end-to-end dbt project running on Snowflake. Generates synthetic but re
 ---
 
 ### [Stripe API Integration: Subscription Billing Demo](https://github.com/Kablan-ASBN/stripe-billing-demo)
-**The problem:** Solutions Engineers at fintech vendors need to demonstrate API fluency in live conversation, not just describe it on a resume.
+**The problem:** Customer-facing technical roles at fintech vendors require demonstrating API fluency in live conversation, not just describing it on a resume.
 
-Built a Python application using the Stripe API to programmatically create customers, attach payment methods, generate subscription billing schedules, handle payment webhooks, and reconcile billing events against an internal ledger. Includes error handling for failed payments, dunning logic for retry scenarios, and a small dashboard showing MRR and churn calculated directly from Stripe data. Specifically built as a portfolio piece for Stripe TSE Chicago and adjacent fintech SE roles (Plaid, Ramp, Mercury, Adyen).
+Built a Python application using the Stripe API to programmatically create customers, attach payment methods, generate subscription billing schedules, handle payment webhooks, and reconcile billing events against an internal ledger. Includes error handling for failed payments, dunning logic for retry scenarios, and a small dashboard showing MRR and churn calculated directly from Stripe data.
 
 `Python` `Stripe API` `FastAPI` `Webhooks` `Subscription Billing` `Reconciliation`
 
@@ -58,9 +58,9 @@ Built a Python application using the Stripe API to programmatically create custo
 ### [Revenue & KPI Reconciliation: Commerce Analytics Case Study](https://github.com/Kablan-ASBN/revenue-kpi-reconciliation)
 **The problem:** Finance, Operations, and Marketing report different revenue numbers from the same source data. This project investigates why and builds the reconciliation logic to resolve it.
 
-Built on the Olist Brazilian E-Commerce dataset. Aggregates item-, freight-, and payment-level data to a consistent order-level grain. Defines and compares four revenue metrics (gross items-only, gross with freight, paid, net non-canceled proxy). Identifies root causes of mismatches including canceled orders with captured payments and multi-item joins at the wrong grain. Produces operational validation checks designed for production monitoring. The pattern (different teams, different definitions, same source data) is one of the most common Solutions Engineering customer scenarios across data vendors.
+Built on the Olist Brazilian E-Commerce dataset. Aggregates item-, freight-, and payment-level data to a consistent order-level grain. Defines and compares four revenue metrics (gross items-only, gross with freight, paid, net non-canceled proxy). Identifies root causes of mismatches including canceled orders with captured payments and multi-item joins at the wrong grain. Produces operational validation checks designed for production monitoring. The pattern (different teams, different definitions, same source data) is one of the most common scenarios in customer-facing analytics work across data vendors.
 
-`Python` `Pandas` `SQL-style aggregation` `Metric documentation` `Data validation` `Discovery skills`
+`Python` `Pandas` `SQL-style aggregation` `Metric documentation` `Data validation`
 
 ---
 
@@ -111,11 +111,11 @@ Full ML pipeline for 3,400+ noisy sidescan sonar images. Custom preprocessing, Y
 
 ## Currently Building
 
-- Deepening dbt and Snowflake fluency through a 13-week Solutions Engineering preparation track: incremental models, SCD Type 2 snapshots, dbt-expectations, custom macros, GitHub Actions CI/CD, Snowflake architecture and cost optimization
-- Stripe API integration project demonstrating subscription billing, webhook handling, and ledger reconciliation (targeting October 2026)
+- Deepening dbt and Snowflake fluency through a 13-week intensive: incremental models, SCD Type 2 snapshots, dbt-expectations, custom macros, GitHub Actions CI/CD, Snowflake architecture and cost optimization
+- Stripe API integration project demonstrating subscription billing, webhook handling, and ledger reconciliation
 - Live demo delivery practice: weekly recordings, biweekly walkthroughs to peers and community, focused on translating technical architecture into customer-facing narratives
 - Recent public engagement: dbt + Snowflake pipeline walkthrough on YouTube, LinkedIn writing on SaaS metrics layering and incremental model patterns, active in DataTalks.Club and dbt Community Slack
 
 ---
 
-*Open to Solutions Engineer, Analytics Engineer, and related customer-facing technical roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation: Chicago, NYC, Baltimore, Philadelphia.*
+*Open to Analytics Engineer, Customer Success Engineer, Implementation Engineer, Solutions Engineer, and Senior Data Analyst roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation: Chicago, NYC, Baltimore, Philadelphia.*
