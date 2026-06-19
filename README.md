@@ -121,4 +121,4 @@ A Python application using the Stripe API to programmatically create customers, 
 
 ---
 
-*Open to Data Scientist, Analytics Engineer, and customer-facing technical roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation: Chicago, NYC, Baltimore, Philadelphia.*
+*Open to Data Scientist, Analytics Engineer, and customer-facing technical roles. U.S. Citizen. Based in Atlanta, GA. Open to relocation.*
