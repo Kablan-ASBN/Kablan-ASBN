@@ -85,15 +85,6 @@ End-to-end dbt project on Snowflake over synthetic but realistic B2B subscriptio
 
 ---
 
-### [Stripe API Integration: Subscription Billing Demo](https://github.com/Kablan-ASBN/stripe-billing-demo)
-**The problem:** Billing systems have to create customers, run subscription schedules, handle payment webhooks, and reconcile events against an internal ledger without drift.
-
-A Python application using the Stripe API to programmatically create customers, attach payment methods, generate subscription billing schedules, handle payment webhooks, and reconcile billing events against an internal ledger. Includes error handling for failed payments, dunning logic for retries, and a small dashboard showing MRR and churn calculated directly from Stripe data.
-
-`Python` `Stripe API` `FastAPI` `Webhooks` `Subscription Billing` `Reconciliation`
-
----
-
 ## Skills
 
 | Area | Tools & Concepts |
