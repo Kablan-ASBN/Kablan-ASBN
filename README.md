@@ -127,4 +127,4 @@ Classical time-series work done properly: S&P 500 adjusted prices from 2000 to 2
 
 ---
 
-*Open to Data Analyst, Analytics Engineer, Data Engineer, Solutions/Implementation Engineer, and credit risk roles. U.S. Citizen. Based in Metro Atlanta, GA. Open to remote or relocation (Chicago, Boston, Philadelphia, Dallas, New York City, Detroit, Miami).*
+*Open to Data Analyst, Analytics Engineer, Data Engineer, Solutions/Implementation Engineer, and credit risk roles. U.S. Citizen. Based in Metro Atlanta, GA. Open to remote or relocation (Chicago, Philadelphia, Dallas, New York City).*
